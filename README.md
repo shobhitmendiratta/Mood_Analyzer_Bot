@@ -1,5 +1,5 @@
 # Mood_Analyzer_Bot
-This is a text-based sentiment analysis bot that uses user input to recognize the sentiments.
+This is a text-based mood analysis bot that uses user input to recognize the sentiments.
 
 Scripts To Run The App Locally
 
@@ -9,8 +9,8 @@ You can clone this repository and you have to install the textblob package. The 
 
 
 
-## Receive sentiment analysis
-Enter the text in the textbox to receive a text based sentiment analysis
+## Receive mood analysis
+Enter the text in the textbox to receive a text based mood analysis
 
 
 ## Exit the program
