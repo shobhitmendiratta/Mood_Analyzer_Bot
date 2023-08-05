@@ -1,5 +1,5 @@
 # Mood_Analyzer_Bot
-This is a text-based mood analysis bot that uses user input to recognize the sentiments.
+This is a text-based mood analysis bot that uses user input to recognize the mood (happy, sad or angry).
 
 Scripts To Run The App Locally
 
